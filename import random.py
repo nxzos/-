@@ -1,3 +1,4 @@
+#рандомайзер паролей :)
 import random
 num = input('user name ')
 len_pas = int(input("Укажите длину пароля"))
